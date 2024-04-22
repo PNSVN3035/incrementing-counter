@@ -1,4 +1,4 @@
-# Welcome to Form Incrementing Counter
+# Welcome to Incrementing Counter
 
 ## Technologies Used
 - HTML, CSS & JAVASCRIPT
